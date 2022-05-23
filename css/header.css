@@ -1,0 +1,18 @@
+.nav-container
+{
+    width: 90%;
+    margin: 0 auto;
+
+}
+header
+{
+    background: rgb(84, 230, 249) ;
+}
+.nav-container a img
+{
+    float: left;
+}
+nav
+{
+    float: right;
+}
